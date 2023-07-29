@@ -1,0 +1,32 @@
+.container {
+    max-width: 30%;
+        text-align: center;
+        margin: 50px auto;
+        padding: 10px;
+        border: 10px;
+        box-shadow: 0 0 5px rgba(6, 6, 6, 0.3);
+        box-sizing: border-box;
+        background-color: rgb(171, 230, 247);
+}
+
+.insert {
+    padding : 20px;
+}
+
+.insert label {
+    display: block;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.insert input {
+    max-width: 400%;
+    padding: 5px;
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+.result {
+  font-weight: bold;
+  margin-top: 10px;
+}
